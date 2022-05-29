@@ -40,7 +40,7 @@ const UserModel = new mongoose.Schema(
   }
 );
 
-// virtual populate
+// virtual  populate
 UserModel.virtual("hostel", {
   ref: "Hostel",
   foreignField: "admin",
