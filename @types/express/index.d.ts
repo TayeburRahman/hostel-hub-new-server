@@ -1,5 +1,5 @@
 declare namespace Express {
-    export interface Request {
-        decodedEmail?: string;
-    }
+  export interface Request {
+    decodedEmail?: string;
+  }
 }

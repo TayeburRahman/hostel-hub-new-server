@@ -7,7 +7,6 @@ Backend: https://github.com/tareqhassan2014/group-project-server
 Backend API: https://group-project-server.herokuapp.com/
 
 Frontend:
-
 I use Typescript as the primary programming language and use React, React-Redux, Redux-thunk, Axios, and MUI.
 
 LIve site: https://typescript-react-redux-thunk.web.app/
